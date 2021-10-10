@@ -1,5 +1,3 @@
-### Hi there 👋
-[![MasterHead](https://img.freepik.com/free-vector/welcome-neon-sign-vector_53876-76088.jpg?size=338&ext=jpg)](https://github.com/Peter-Portela)
 <!--
 [![MasterHead](https://img.freepik.com/free-vector/welcome-neon-sign-vector_53876-76088.jpg?size=338&ext=jpg)](https://github.com/Peter-Portela)
 **Peter-Portela/Peter-Portela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
