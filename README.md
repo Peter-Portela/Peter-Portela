@@ -1,13 +1,18 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<h1 align="center">Hey, bem vindo ao meu perfil!</h1> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Portela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
 
-##
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Peet-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Peet-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Peet-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Peet-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-</div>
+</div align="center">
 
 ##
   
