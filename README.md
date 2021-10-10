@@ -1,7 +1,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <h1 align="center">Hey, bem vindo ao meu perfil!</h1> 
-<div>
+<div align="center">
+  <a href="https://github.com/Peter-Portela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Portela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
