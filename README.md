@@ -1,5 +1,5 @@
 ##
-<div align="center">
+<div>
   <a href="https://github.com/Peter-Portela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Portela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&langs_count=10&theme=github_dark"/>
