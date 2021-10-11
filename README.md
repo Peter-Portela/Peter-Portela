@@ -1,8 +1,8 @@
 ##
 <div>
   <a href="https://github.com/Peter-Portela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Portela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&langs_count=10&theme=github_dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Portela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Portela&layout=compact&langs_count=10&theme=github_dark"/>-->
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Peet-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
